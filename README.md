@@ -6,7 +6,7 @@ A clean, modern Flutter app for managing and browsing your contacts with style.
 
 **Contact App** is a beautifully designed and intuitive application that lets users view, search,
 and interact with their contact list easily. It features a minimal user interface inspired
-by [this Figma design](https://www.figma.com/design/75BNa0JF2kPRjZVlhx1BHK/Contact-App?node-id=54-1121&t=iDFY6dqC62Ptnhi9-1),
+by [this Figma design],
 making it perfect for mobile use.
 
 > ✨ Simple. Fast. Elegant.
@@ -15,12 +15,12 @@ making it perfect for mobile use.
 
 ## 🖼️ Preview
 
-| Splash Screen                                                     | Home Screen                                       | Bottom Nav Bar Screen                       |
-|-------------------------------------------------------------------|---------------------------------------------------|---------------------------------------------|
-| ![Splash Screen](assets/ui/SplashScreen.png)                      | ![Home Screen](assets/ui/HomeScreen.png)          | ![BottomNavbar](assets/ui/BottomNavbar.png) |
-| Bottom Nav bar Data Entered                                       | Home Screen With Full Data                        |
-| ----------------------------------------------                    | --------------------------------------------      |
-| ![BottomNavbarDataEntered](assets/ui/BottomNavbarDataEntered.png) | ![Home Screen Full](assets/ui/HomeScreenFull.png) |
+| Splash Screen                                                     | Home Screen                                        | Bottom Nav Bar Screen                       |
+|-------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------|
+| ![Splash Screen](assets/ui/SplashScreen.png)                      | ![Home Screen](assets/ui/HomeScreen.png)           | ![BottomNavbar](assets/ui/BottomNavbar.png) |
+| Bottom Nav bar Data Entered                                       | Home Screen With Full Data                         |
+| ----------------------------------------------------------------  | -------------------------------------------------- |
+| ![BottomNavbarDataEntered](assets/ui/BottomNavbarDataEntered.png) | ![Home Screen Full](assets/ui/HomeScreenFull.png)  |
 
 ---
 
