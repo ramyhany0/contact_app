@@ -2,11 +2,12 @@
 
 A clean, modern Flutter app for managing and browsing your contacts with style.
 
-![Banner](assets/images/banner.png)
-
 ## 🧭 Overview
 
-**Contact App** is a beautifully designed and intuitive application that lets users view, search, and interact with their contact list easily. It features a minimal user interface inspired by [this Figma design](https://www.figma.com/design/75BNa0JF2kPRjZVlhx1BHK/Contact-App?node-id=54-1121&t=iDFY6dqC62Ptnhi9-1), making it perfect for mobile use.
+**Contact App** is a beautifully designed and intuitive application that lets users view, search,
+and interact with their contact list easily. It features a minimal user interface inspired
+by [this Figma design](https://www.figma.com/design/75BNa0JF2kPRjZVlhx1BHK/Contact-App?node-id=54-1121&t=iDFY6dqC62Ptnhi9-1),
+making it perfect for mobile use.
 
 > ✨ Simple. Fast. Elegant.
 
@@ -36,7 +37,11 @@ A clean, modern Flutter app for managing and browsing your contacts with style.
 
 ## 🧱 Folder Structure
 
-lib/ ├── models/ │ └── contact.dart # Contact data model ├── screens/ │ ├── home_screen.dart # Main contact list │ ├── contact_detail.dart # Contact info page │ └── add_contact.dart # Form to add new contact ├── widgets/ │ └── contact_card.dart # Reusable contact card widget ├── utils/ │ ├── colors.dart # App color constants │ └── dummy_data.dart # Sample contact data └── main.dart # App entry point
+lib/ ├── models/ │ └── contact.dart # Contact data model ├── screens/ │ ├── home_screen.dart # Main
+contact list │ ├── contact_detail.dart # Contact info page │ └── add_contact.dart # Form to add new
+contact ├── widgets/ │ └── contact_card.dart # Reusable contact card widget ├── utils/ │ ├──
+colors.dart # App color constants │ └── dummy_data.dart # Sample contact data └── main.dart # App
+entry point
 
 
 ---
