@@ -19,7 +19,6 @@ making it perfect for mobile use.
 |-------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------|
 | ![Splash Screen](assets/ui/SplashScreen.png)                      | ![Home Screen](assets/ui/HomeScreen.png)           | ![BottomNavbar](assets/ui/BottomNavbar.png) |
 | Bottom Nav bar Data Entered                                       | Home Screen With Full Data                         |
-| ----------------------------------------------------------------  | -------------------------------------------------- |
 | ![BottomNavbarDataEntered](assets/ui/BottomNavbarDataEntered.png) | ![Home Screen Full](assets/ui/HomeScreenFull.png)  |
 
 ---
